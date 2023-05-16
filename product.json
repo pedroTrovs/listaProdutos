@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "descr": "batata",
+      "peso": 76,
+      "tipo": "tubérculo",
+      "valor": 2.45
+    },
+    {
+      "id": 2,
+      "descr": "nhoque",
+      "peso": 250,
+      "tipo": "massa",
+      "valor": 12.34
+    },
+    {
+      "id": 3,
+      "descr": "batata",
+      "peso": 456,
+      "tipo": "tubérculo",
+      "valor": 2.45
+    },
+    {
+      "id": 4,
+      "descr": "frango",
+      "peso": 2000,
+      "tipo": "animal",
+      "valor": 120
+    }
+  ]
+}
